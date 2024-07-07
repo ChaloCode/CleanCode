@@ -1,4 +1,4 @@
-> Los animo hacer este ejercicio para que practique, donde van encontrar una historia de usuario y un código que lo resuelve la idea es refactorizar aplicando el principio **YAGNI**
+> Los invito a realizar este ejercicio para practicar. Encontrarán una historia de usuario y el código que la resuelve. La idea es refactorizar el código aplicando el principio **YAGNI**
 
 [ :tv: Videos de CleanCode](https://www.youtube.com/watch?v=PGtzp_9IFb8&list=PLjU2Ord0op_MRkbfS2wc69N1G1_QAOIbW)  
 
